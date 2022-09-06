@@ -1,3 +1,3 @@
 # ar-simple-scene
 
-work only dectop browser
+work only decktop browser
